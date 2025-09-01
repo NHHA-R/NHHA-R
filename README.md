@@ -1,6 +1,9 @@
 ### Hiiiii (=•ェ•=) 👇
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5hY216Z2I5ZXlkajRvZXlwdmg0MmJuZWZpczE4M2E4NjI3ZnowMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gWp8QhKjmS8mY/giphy.gif" width="230">
 
+Usando Github como estudiante.
+Aspirante a saber usar R.
+Fanatico de las aves
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 **NHHA-R/NHHA-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
