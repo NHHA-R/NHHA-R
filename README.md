@@ -1,21 +1,13 @@
 ### Hiiiii (=•ェ•=) 👇
 
-Usando Github como estudiante.
-Aspirante a saber usar R.
-Fanatico de las aves
-<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWEwczlwbG1jb3E2ZGg4N2h0eXk5eG52dDRpemU3dHUwZGt1OHd4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LkliTKy1IM0Oyrsa0t/giphy.gif" width="230">
+# Usando Github como estudiante de Ecologia
+### Aspirante a saber usar R.
+## Fanatico de las aves.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhyZTVoOWRyZmZzNHlxcXA4bjl5YXd0angzbjd6amVncW1lN3N1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kIzQaN1N07IbYYrOdz/giphy.gif" width="50"></h2>
 
+Supongo que en algun punto pondre el codigo de mis proyectos aquí
+No tengo idea de a que voy a dirigir mi campo de estudio pero me gusta analizar datos y los patrones en ellos, por eso quiero saber como usar R.
 
-**NHHA-R/NHHA-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hablante de español (obviamente), ingles basico, y con vocabulario de frances y portugues. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Correo de contacto: hectoralejandronajerahogas@gmail.com
